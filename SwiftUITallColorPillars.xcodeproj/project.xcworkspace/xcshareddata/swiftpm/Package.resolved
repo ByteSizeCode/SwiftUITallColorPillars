@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DynamicColor",
+        "repositoryURL": "https://github.com/yannickl/DynamicColor.git",
+        "state": {
+          "branch": null,
+          "revision": "1e85f9461f44bbf8c3ffba9101b8d202f864cdc6",
+          "version": "5.0.0"
+        }
+      },
+      {
+        "package": "ExyteGrid",
+        "repositoryURL": "https://github.com/exyte/Grid.git",
+        "state": {
+          "branch": null,
+          "revision": "2f43a8195a0eee8f90177c31b08624e5dc554c00",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
